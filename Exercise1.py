@@ -12,3 +12,4 @@ class Employee:
     
 employeeOne=Employee()
 employeeOne.hasTargetAchieved()
+heello()
